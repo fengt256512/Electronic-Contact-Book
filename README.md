@@ -13,4 +13,4 @@ The Electronic Contact Book System can read existing contact information. Each r
 5. e-mail which must be a valid e-mail address, eg, a string with alphabetic, numeric and punctuation characters and an "at" (@) symbol inside and with no gaps, such as: abcdefg.123@gmail. com
 
 The following is the UML design diagram:
-![image](https://user-images.githubusercontent.com/93305654/158732012-a525bb72-11ef-467a-82c6-2ee449cddad9.png)
+![image](https://user-images.githubusercontent.com/93305654/158732299-57498f4c-3e89-4240-9fb1-1737f23a21db.png)

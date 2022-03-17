@@ -14,3 +14,5 @@ The Electronic Contact Book System can read existing contact information. Each r
 
 The following is the UML design diagram:
 ![image](https://user-images.githubusercontent.com/93305654/158732299-57498f4c-3e89-4240-9fb1-1737f23a21db.png)
+
+The system mainly includes four functions: Add, Delete, query and Save. Different operations can be performed on the system through instructions.
